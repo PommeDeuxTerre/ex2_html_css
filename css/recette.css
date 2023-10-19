@@ -1,13 +1,13 @@
+body {
+    background-color: #EEEEEE;
+}
 h1 {
     text-align: center;
-}
-p {
-    color: red;
-    font-style: italic;
 }
 h2 {
     color: blue;
 }
-body {
-    background-color: #EEEEEE;
+p {
+    color: red;
+    font-style: italic;
 }
